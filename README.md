@@ -1,5 +1,5 @@
 
-                                                                            📇 ContactManager App
+ 📇 ContactManager App
  🧠 Overview  
 **ContactManager** is a simple yet powerful **MERN stack** application that helps users manage their contacts efficiently.  
 🚀 Built while following a YouTube tutorial, this project helped me learn how **routing, authentication, and CRUD operations** work in a real-world Node + Mongo backend — as someone who already knows React!
