@@ -131,16 +131,5 @@ npm start
 
 > I followed a YouTube tutorial to get hands-on experience with backend development as a React developer. This helped me understand backend routing, REST APIs, JWT authentication, and working with MongoDB — all through practical application. 🙌
 
----
-
-🧠 **Learning by doing** is the best way — and this project was my first real step into backend development!
-👋 Contributions and feedback are always welcome. Fork, star ⭐, and play around with the code!
-
-```
-
----
-
-✅ You can now **copy this entire block** into your `README.md` file — no missing pieces. Let me know if you want to turn this into a full MERN app with the React frontend next!
-```
 
 
